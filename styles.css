@@ -1,0 +1,16 @@
+html {
+    background-color: #40476D;
+}
+
+body {
+    width: 960px;
+    background-color: #b2c3dc;
+    margin: 0 auto;
+
+    display: grid;
+    grid-template-columns: 1fr 1.5fr;
+}
+
+img {
+    width: 100%;
+}
