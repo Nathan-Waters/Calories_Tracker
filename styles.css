@@ -1,10 +1,5 @@
-html {
-    background-color: #40476D;
-}
-
 body {
     width: 960px;
-    background-color: #b2c3dc;
     margin: 0 auto;
 
     display: grid;
