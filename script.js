@@ -7,7 +7,7 @@ document.getElementById("calc-calories").onclick = calculateCalories;
 function lbsToKgs()
 {
     //write your code here - get the lbs value from the textbox, convert to kgs
-    //and display using the output() function
+    //and display using the output() function d
 }
 
 //determine MET value for exercises in the dropdown list and send output to the console
